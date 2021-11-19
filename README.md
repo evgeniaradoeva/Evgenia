@@ -6,7 +6,6 @@ This week was probably the most difficult one for me, because I feel a bit far f
 On Monday a whole new door opened in my mind. It is still half closed though, because of the confusion that envelops me, when I try to fully open it. New terms were flying around- Read me file?; Arduino?; Tinkercad?
 
 ![monophy](https://user-images.githubusercontent.com/94388183/142617816-32328973-03b8-450e-8b80-85edcf56e970.gif)
-<img width="484" alt="image" src="https://user-images.githubusercontent.com/94388183/142622942-5fa83a7d-b6fc-4803-8259-7a8275f63cc3.png">
 
 
 <h2>Arduino</h2>
